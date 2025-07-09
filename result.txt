@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-07-09 18:51:52,url
+2025-07-10 06:57:36,url
 📺央视频道,#genre#
 CCTV-1,http://110.7.130.248:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://110.7.130.248:9901udp://@225.1.2.3:32144
@@ -41,7 +41,6 @@ CCTV-3,http://58.221.214.82:9901/tsfile/live/0003_1.m3u8
 CCTV-3,http://61.138.128.226:19901/tsfile/live/0003_1.m3u8
 CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
 CCTV-3,http://58.19.43.46:9901/tsfile/live/1022_1.m3u8
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$1920x1080
 CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://110.7.130.248:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://123.129.70.178:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -51,6 +50,7 @@ CCTV-4,http://111.9.163.109:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&a
 CCTV-4,http://222.134.245.16:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://110.7.130.248:9901udp://@225.1.2.3:32148
 CCTV-4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8
 CCTV-4,http://58.221.214.82:9901/tsfile/live/0004_1.m3u8
 CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
@@ -737,8 +737,6 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8
 金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
-睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8
-睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
