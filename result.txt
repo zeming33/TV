@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-07-25 06:55:54,url
+2025-07-25 18:49:17,url
 📺央视频道,#genre#
 CCTV-1,http://110.7.130.248:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
