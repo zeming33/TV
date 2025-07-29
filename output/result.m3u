@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-07-29 18:50:33" tvg-logo="https://live.fanmingming.com/tv/2025-07-29 18:50:33.png" group-title="更新时间",2025-07-29 18:50:33
+#EXTINF:-1 tvg-name="2025-07-30 06:58:13" tvg-logo="https://live.fanmingming.com/tv/2025-07-30 06:58:13.png" group-title="更新时间",2025-07-30 06:58:13
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://110.7.130.248:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1230,11 +1230,11 @@ http://r.jdshipin.com/Nr5jq$LR•IPV4『线路3』
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="🌊港·澳·台",J2
 http://r.jdshipin.com/ndGgS$LR•IPV4『线路4』
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/三立台湾.png" group-title="🌊港·澳·台",三立台湾
-https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
+https://stream1.freetv.fun/san-li-tai-wan-5.m3u8$1920x1080
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/三立台湾.png" group-title="🌊港·澳·台",三立台湾
-https://stream1.freetv.fun/san-li-tai-wan-1.ctv
+https://stream1.freetv.fun/san-li-tai-wan-1.ctv$1920x1080
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://live.fanmingming.com/tv/三立台湾.png" group-title="🌊港·澳·台",三立台湾
-https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8
+https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.m3u8$1920x1080
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 https://nothingbe.serv00.net/tvb.php?id=C&type=hd$1920x1080
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻.png" group-title="🌊港·澳·台",无线新闻
@@ -1282,41 +1282,41 @@ http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://58.48.5.186:1111/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-1.ctv
+https://stream1.freetv.fun/tao-dian-ying-1.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-10.ctv
+https://stream1.freetv.fun/tao-dian-ying-10.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-11.ctv
+https://stream1.freetv.fun/tao-dian-ying-11.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-12.ctv
+https://stream1.freetv.fun/tao-dian-ying-12.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-13.ctv
+https://stream1.freetv.fun/tao-dian-ying-13.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-14.ctv
+https://stream1.freetv.fun/tao-dian-ying-14.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-15.ctv
+https://stream1.freetv.fun/tao-dian-ying-15.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-16.ctv
+https://stream1.freetv.fun/tao-dian-ying-16.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-2.m3u8
+https://stream1.freetv.fun/tao-dian-ying-2.m3u8$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-3.ctv
+https://stream1.freetv.fun/tao-dian-ying-3.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-4.m3u8
+https://stream1.freetv.fun/tao-dian-ying-4.m3u8$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-5.ctv
+https://stream1.freetv.fun/tao-dian-ying-5.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-6.ctv
+https://stream1.freetv.fun/tao-dian-ying-6.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-7.ctv
+https://stream1.freetv.fun/tao-dian-ying-7.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-8.ctv
+https://stream1.freetv.fun/tao-dian-ying-8.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-9.ctv
+https://stream1.freetv.fun/tao-dian-ying-9.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-4.ctv
+https://stream1.freetv.fun/tao-dian-ying-4.ctv$1920x1080
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
-https://stream1.freetv.fun/tao-dian-ying-2.ctv
+https://stream1.freetv.fun/tao-dian-ying-2.ctv$1920x1080
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🎬电影频道",经典电影
@@ -1448,7 +1448,7 @@ http://122.9.151.210:3203/rtp/238.255.2.196:5999
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://122.9.151.210:2676/rtp/238.255.2.196:5999
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://live.fanmingming.com/tv/CN卡通.png" group-title="🪁动画频道",CN卡通
-https://stream1.freetv.fun/cnqia-tong-1.ctv
+https://stream1.freetv.fun/cnqia-tong-1.ctv$1920x1080
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
 http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=GD_CUCC&$LR•IPV4『线路15』
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="🪁动画频道",优漫卡通
@@ -1464,7 +1464,7 @@ http://61.138.128.226:19901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://live.fanmingming.com/tv/24H国漫热播.png" group-title="🪁动画频道",24H国漫热播
-https://lunbo.freetv.top/yy/1353937086
+https://lunbo.freetv.top/yy/1353937086$1920x1080
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="🪁动画频道",河北少儿科教
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="🪁动画频道",河北少儿科教
