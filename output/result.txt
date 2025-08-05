@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-08-05 18:51:39,url
+2025-08-06 06:58:32,url
 📺央视频道,#genre#
 CCTV-1,http://110.7.130.248:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -31,7 +31,6 @@ CCTV-3,http://223.241.247.214:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1
 CCTV-3,http://110.7.130.248:9901udp://@225.1.2.3:32147
 CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
 CCTV-3,http://58.19.43.46:9901/tsfile/live/1022_1.m3u8
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$1920x1080
 CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://110.7.130.248:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://123.129.70.178:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -40,6 +39,7 @@ CCTV-4,http://223.241.247.214:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1
 CCTV-4,http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://110.7.130.248:9901udp://@225.1.2.3:32148
 CCTV-4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
 CCTV-4,https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 CCTV-5,http://123.129.70.178:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -160,7 +160,9 @@ CCTV-17,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 CCTV-17,http://123.129.70.178:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8
 CCTV-17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
+CETV1,http://120.55.49.231:1017/rtp/233.50.201.75:5140
 CETV2,http://123.56.129.203:5984/rtp/225.1.8.193:4120
+CETV4,http://120.55.49.231:1017/rtp/233.50.200.162:5140
 💰央视付费频道,#genre#
 📡卫视频道,#genre#
 广东卫视,http://123.129.70.178:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -571,6 +573,10 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 快乐垂钓,http://123.56.129.203:7637/rtp/225.1.8.71:8002
 快乐垂钓,http://123.56.129.203:5431/rtp/225.1.8.71:8002
+JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
+JJ斗地主,https://live.iill.top/bilibili/22021983
+JJ斗地主,http://live.iill.top/douyu.php?id=488743
+JJ斗地主,https://live.iill.top/douyu/488743
 🪁动画频道,#genre#
 动漫秀场,http://122.9.151.210:6209/rtp/238.255.2.196:5999
 动漫秀场,http://122.9.151.210:8088/rtp/238.255.2.196:5999
@@ -584,11 +590,21 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 金鹰卡通,http://110.7.130.248:9901udp://@225.1.2.3:32212
 金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
+睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8
+睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
+七龙珠,https://live.iill.top/huya/11601966
+七龙珠,https://live.iill.top/huya/25650806
+七龙珠,http://live.iill.top/huya.php?id=11601966
+七龙珠,http://live.iill.top/huya.php?id=25650806
+火影忍者,http://live.iill.top/douyu.php?id=1997723
+火影忍者,https://live.iill.top/douyu/1997723
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$1920x1080
+猫和老鼠,https://live.iill.top/huya/11352879
+猫和老鼠,http://live.iill.top/huya.php?id=11352879
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
 🎵音乐频道,#genre#
