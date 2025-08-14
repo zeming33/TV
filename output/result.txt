@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-08-14 06:55:05,url
+2025-08-14 18:49:34,url
 📺央视频道,#genre#
 CCTV-1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -508,12 +508,12 @@ CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8
 睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086$1920x1080
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
 海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$1920x1080
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy
